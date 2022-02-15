@@ -1,0 +1,16 @@
+{
+    "name": "IDVP",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "IDVP",
+        "/category/asset_value_tracking/core-token/symbol": "IDVP",
+        "/category/asset_value_tracking/core-token/decimals": "2",
+        "/category/asset_value_tracking/core-token/supply": "1000"
+    }
+}
